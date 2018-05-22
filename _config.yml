@@ -1,28 +1,47 @@
-name: 3 Principles Resources
-favicon: null
-layout_spectrum: 0.904966723639518
-typography_spectrum: 0.4358160679694265
+name: Food Pics
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:3PrinciplesResources@gmail.com'
+    label: Contact Here
+  - type: external
+    url: 'http://eepurl.com/ckdRxr'
+    label: DOWNLOAD The 3 P Essential Resource Guide
+description: Best Free Food Pics
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
+author:
+  name: Anne Curtis
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.904966723639518
 color:
+  lightness: 0.8241775839123875
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.8360952290240675
-  lightness: 0.8241775839123875
   saturation: 0.06874049664475024
+  brandStrength: 0.8360952290240675
   rhythmicContrast: 0.3490728405304253
-purpose: []
+content_rating:
+  adult: false
+typography_spectrum: 0.4358160679694265
+opengraph: {}
+title: The Secret of Unconditional Happiness
+github: true
