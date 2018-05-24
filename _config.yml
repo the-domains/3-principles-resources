@@ -1,16 +1,32 @@
-name: The Secret of Happiness
+typography_spectrum: 0.4358160679694265
+content_rating:
+  adult: false
+color:
+  lightness: 0.8241775839123875
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  saturation: 0.06874049664475024
+  brandStrength: 0.8360952290240675
+  rhythmicContrast: 0.3490728405304253
+github: true
+opengraph: {}
+layout_spectrum: 0.904966723639518
 analytics: {}
-purpose:
-  - type: contact
-    url: 'mailto:3PrinciplesResources@gmail.com'
-    label: Contact Here
-description: The Only Solution To True Happiness
+author:
+  name: Anne Curtis
+name: The Secret of Happiness
 cta:
   bucket: null
   version: null
   domain: null
-author:
-  name: Anne Curtis
+navigation:
+  - name: Unconditional Happiness Emersion
+    id: adb45cdb-24af-4f20-bf77-c56f14003873
+    type: content
 collections:
   - index:
       path: /
@@ -23,22 +39,10 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content: []
-layout_spectrum: 0.904966723639518
-color:
-  lightness: 0.8241775839123875
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  saturation: 0.06874049664475024
-  brandStrength: 0.8360952290240675
-  rhythmicContrast: 0.3490728405304253
-content_rating:
-  adult: false
-typography_spectrum: 0.4358160679694265
-opengraph: {}
 title: The Secret of Unconditional Happiness
-github: true
+content: []
+description: The Only Solution To True Happiness
+purpose:
+  - type: contact
+    url: 'mailto:3PrinciplesResources@gmail.com'
+    label: Contact Here
