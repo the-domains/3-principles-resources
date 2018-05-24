@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Author and Unconditional Happiness Immersion Organiser
-dateModified: '2018-05-24T19:16:24.206Z'
-datePublished: '2018-05-24T19:16:24.988Z'
+dateModified: '2018-05-24T19:16:46.360Z'
+datePublished: '2018-05-24T19:16:47.060Z'
 title: The Secret of Unconditional Happiness Immersion Experience
 author: []
 publisher: {}
