@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Have you ever thought …
-dateModified: '2018-05-24T20:12:30.790Z'
-datePublished: '2018-05-24T20:12:31.780Z'
+dateModified: '2018-05-24T20:17:57.930Z'
+datePublished: '2018-05-24T20:17:58.723Z'
 title: Unconditional Happiness Emersion Experience
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-05-24-unconditional-happiness-emersion-experience.md
 starred: false
 datePublishedOriginal: '2018-05-24T20:12:31.780Z'
-sourcePath: _posts/2018-05-24-unconditional-happiness-emersion-experience.md
 _type: Blurb
 
 ---
@@ -49,24 +49,19 @@ Have you noticed - these are all versions of what we might call the "I'll be hap
 
 But what if we've innocently got it the wrong way round?  
 
-What if our happiness, our wellbeing, our peace of mind doesn't depend on what we currently think it does?
+What if our happiness, our wellbeing, our peace of mind doesn't depend on what we currently think it does - but is in fact our default state of being?
 
 What would be the implications of that?
 
-What would become
-available to you, if you knew, in your bones that that was true?
+What would become available to you - what would you experience - if you knew, in your bones that was true?
 
 **Imagine yourself... **
 
-\*      Being free of the need for
-things to be different, in order for you to be happy
+FREE - of any need for things to be different, in order for you to BE HAPPY NOW
 
-\*     
-Loving
-the life that you live, unconditionally
+FREE - to LOVE YOUR LIFE - unconditionally
 
-\*      Doing the things you want to do,
-without feeling like your happiness or wellbeing depends on the outcome
+FREE - to DO THINGS YOU LOVE TO DO - without imagining your happiness or your wellbeing depend on any particular outcome.
 
 Join Anne and Vivienne
 for this five-day retreat in the beautiful and relaxed setting of the Camping
