@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Have you ever thought …
-dateModified: '2018-05-24T20:17:57.930Z'
-datePublished: '2018-05-24T20:17:58.723Z'
+dateModified: '2018-05-24T20:22:52.703Z'
+datePublished: '2018-05-24T20:22:53.374Z'
 title: Unconditional Happiness Emersion Experience
 author: []
 publisher: {}
@@ -63,19 +63,17 @@ FREE - to LOVE YOUR LIFE - unconditionally
 
 FREE - to DO THINGS YOU LOVE TO DO - without imagining your happiness or your wellbeing depend on any particular outcome.
 
-Join Anne and Vivienne
-for this five-day retreat in the beautiful and relaxed setting of the Camping
-Beau Rivage, in Navarrenx in the picturesque Béarn region of the French
-Pyrenees. 
+Join Anne and Vivienne ...
+for a relaxed and fun five-day deep immersion experience - in the beautiful and relaxed setting of the Camping Beau Rivage, in the ancient walled town of Navarrenx at the foot of the French Pyrenees. 
 
-Together we will explore
-the unconditional nature of happiness, of wellbeing and resilience, and of
-peace of mind.  Can we guarantee you'll
-see something new about your own "I'll be happy when..."? No (because we're not
-in charge of your insights or realisations) but we guarantee we'll point you in
-the most helpful direction to see something that could literally set you free.
+Together we will explore - and experience deeply - the unconditional nature of happiness, of wellbeing, of resilience and of peace of mind.  
 
-P.S. there is NOTHING
-you can throw at us that is an exception to this.  From childlessness to relationship woes, to a
+Can we guarantee you'll see something new about your own "I'll be happy when..."? 
+
+No (because we're not in charge of your insights or realisations) but we guarantee we'll point you in the most helpful direction to see something that could literally set you free.
+
+P.S. There is absolutely NOTHING you can throw at us that is an exception to this - our natural way of being and experiencing happiness.  
+
+From childlessness - to relationship woes, to a
 traumatic past experience, we will help you to see that your happiness now and
 in the future is completely independent of any of those things.
