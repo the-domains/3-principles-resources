@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: Have you ever thought …
-dateModified: '2018-05-24T20:43:17.724Z'
-datePublished: '2018-05-24T20:43:18.422Z'
+dateModified: '2018-05-24T21:08:18.205Z'
+datePublished: '2018-05-24T21:08:18.858Z'
 title: Unconditional Happiness Emersion Experience
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-05-24-unconditional-happiness-emersion-experience.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-24T20:12:31.780Z'
-_type: Blurb
+url: unconditional-happiness-emersion-experience/index.html
+_type: Article
 
 ---
 # **Unconditional Happiness Emersion Experience**
@@ -64,7 +66,10 @@ FREE - to LOVE YOUR LIFE - unconditionally
 FREE - to DO THINGS YOU LOVE TO DO - without imagining your happiness or your wellbeing depend on any particular outcome.
 
 Join Anne and Vivienne ...
-for a relaxed and fun five-day deep immersion experience - in the beautiful and relaxed setting of the Camping Beau Rivage, in the ancient walled town of Navarrenx at the foot of the French Pyrenees. 
+for a relaxed and fun five-day deep immersion experience - in the beautiful and relaxed setting of the Camping Beau Rivage, in the ancient walled town of Navarrenx at the foot of the French Pyrenees. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e56fe378-31cd-422d-853c-38553ab7ec61.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f9fc90f-52fb-4e48-bacb-d43b05f5e6ba.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc7d1d71-cd93-446a-836e-6743db3c2336.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e375755a-e698-45a6-864a-530d5fab5cfb.jpg)
 
 Together we will explore - and experience deeply - the unconditional nature of happiness, of wellbeing, of resilience and of peace of mind.  
 
