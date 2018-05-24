@@ -1,12 +1,9 @@
-name: Food Pics
+name: The Secret of Happiness
 analytics: {}
 purpose:
   - type: contact
     url: 'mailto:3PrinciplesResources@gmail.com'
     label: Contact Here
-  - type: external
-    url: 'http://eepurl.com/ckdRxr'
-    label: DOWNLOAD The 3 P Essential Resource Guide
 description: Best Free Food Pics
 cta:
   bucket: null
