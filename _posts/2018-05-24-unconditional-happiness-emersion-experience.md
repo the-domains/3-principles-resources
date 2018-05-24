@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Have you ever thought …
-dateModified: '2018-05-24T20:22:52.703Z'
-datePublished: '2018-05-24T20:22:53.374Z'
+dateModified: '2018-05-24T20:42:32.492Z'
+datePublished: '2018-05-24T20:42:33.315Z'
 title: Unconditional Happiness Emersion Experience
 author: []
 publisher: {}
@@ -74,6 +74,4 @@ No (because we're not in charge of your insights or realisations) but we guarant
 
 P.S. There is absolutely NOTHING you can throw at us that is an exception to this - our natural way of being and experiencing happiness.  
 
-From childlessness - to relationship woes, to a
-traumatic past experience, we will help you to see that your happiness now and
-in the future is completely independent of any of those things.
+From childlessness - to relationship woes, from anxieties about your body, your health, your finances and the future - to traumatic past experience - we will help you to see - and to deeply experience - that your happiness now and in the future is completely independent of any of those things.
