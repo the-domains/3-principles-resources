@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Have you ever thought …
-dateModified: '2018-05-24T20:43:08.222Z'
-datePublished: '2018-05-24T20:43:08.850Z'
+dateModified: '2018-05-24T20:43:17.724Z'
+datePublished: '2018-05-24T20:43:18.422Z'
 title: Unconditional Happiness Emersion Experience
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ _type: Blurb
 ---
 # **Unconditional Happiness Emersion Experience**
 
-## What's In It For You?
+## What's It All About?
 
 **Have you ever thought ...**
 
